@@ -4,7 +4,7 @@
 var request = new XMLHttpRequest();
 
 //2.Open my request connection
-request.open('GET','http://api.countrylayer.com/v2/currency/USD?access_key=d612564930cd61936df4e15c6dc1de58');
+request.open('GET','http://api.countrylayer.com/v2/currency/EUR?access_key=d612564930cd61936df4e15c6dc1de58');
 
 //3.Send a request
 request.send();
