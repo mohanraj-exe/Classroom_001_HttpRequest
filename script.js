@@ -4,7 +4,7 @@
 var request = new XMLHttpRequest();
 
 //2.Open my request connection
-request.open('GET','https://jsonplaceholder.typicode.com/posts');
+request.open('GET','https://jsonplaceholder.typicode.com/users');
 
 //3.Send a request
 request.send();
